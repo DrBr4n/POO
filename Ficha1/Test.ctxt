@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Test
+comment1.params=
+comment1.target=void\ testCelsiusParaFarenheit()
+comment2.params=
+comment2.target=void\ testMaximoNumeros()
+comment3.params=
+comment3.target=void\ testCriaDescricaoConta()
+comment4.params=
+comment4.target=void\ testEurosParaLibras()
+comment5.params=
+comment5.target=void\ testMedia()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
