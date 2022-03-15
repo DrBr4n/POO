@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=F2Ex2
+comment1.params=aluno\ notas
+comment1.target=void\ setNotas(int,\ int[])
+comment2.params=aluno
+comment2.target=int[]\ getNotas(int)
+comment3.params=
+comment3.target=int[][]\ getNotas()
+comment4.params=uc
+comment4.target=int\ soma(int)
+comment5.params=aluno
+comment5.target=int\ media(int)
+numComments=6

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Test
+comment1.params=n
+comment1.target=int[]\ lerArrayInt(int)
+comment2.params=
+comment2.target=void\ TestF2Ex1()
+comment3.params=
+comment3.target=void\ TestF2Ex2()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
